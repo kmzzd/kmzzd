@@ -1,16 +1,16 @@
-## Hi there 👋
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,figma,ps,ai,wordpress" />
+  <img 
+    src="https://cdn.simpleicons.org/n8n" 
+    height="48" 
+    style="vertical-align: middle; margin-left: 8px;" 
+  />
+</p>
 
-<!--
-**kmzzd/kmzzd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested in startups, AI, product thinking, and systems that scale.  
+Open to ambitious projects and collaborations.
 
-Here are some ideas to get you started:
+Web・AI・Automations・Design・E-commerce
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Portfolio / Work: https://mozdzen.xyz  
+Contact: contact@mozdzen.xyz
